@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Career Guidance</string>
+    <string name="open_nav">Open MenuBar</string>
+    <string name="close_nav">Close MenuBar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Career Options -->
+    <string name="one">
+        Diploma in Engineering
+        \nDiploma in hotel management
+        \nDiploma in journalism
+        \nDiploma in graphic designing
+        \nDiploma in fashion designing
+        \nDiploma in photography
+        \nDiploma in psychology
+        \nDiploma in elementary education
+        \nDiploma in digital marketing
+        \nDiploma in fine arts
+        \nDiploma in English
+        \nDiploma in web designing
+        \nDiploma in game designing
+        \nDiploma in makeup and beauty
+        \nDiploma in bakery and confectionery
+        \nDiploma in event management
+        \nDiploma in Marine Engineering
+        \nDiploma in animation
+        \nDiploma in textile designing
+        \nDiploma in leather designing
+        \nDiploma in textile engineering
+    </string>
+    <string name="two">
+        Diploma in Computer programming
+        \nGraduate certificate in marketing management
+        \nDiploma in petroleum engineering
+        \nDiploma in animation arts and design
+        \nDiploma in Hospitality Management
+        \nDiploma of early childhood education and care
+        \nDiploma in accounting
+    </string>
+    <string name="three">
+        Diploma in hospital assistance
+        \nDiploma in rural healthcare
+        \nPathology lab technician
+        \nDiploma in paramedical nursing
+        \nDiploma in physiotherapy
+        \nCertificate of nursing assistant
+        \nDiploma in x-ray technique
+        \nDiploma in ECG Technology
+        \nDiploma in radiology
+        \nDiploma in pharmacy
+        \nDiploma in dental mechanics
+    </string>
+    <string name="four">
+        Electrician
+        \nRadiology technician
+        \nInsurance agent
+        \nDigital photographer
+        \nFashion design and Technology
+        \nSewing Technology
+        \nTool and die making
+        \nComputer operator and programming artist
+    </string>
+    <string name="five">
+        E-commerce
+        \nDigital marketing
+        \nOccupational therapy
+        \nAgriculture
+        \nJournalism
+        \nCertificate in animation
+        \nCertificate course in functions or spoken English
+        \nCertificate mobile repairing course
+        \nDiploma in commercial practice
+        \nDiploma in cosmetology
+        \nDiploma in stenography
+        \nDiploma in leather technology
+        \nDiploma in mechanical engineering
+        \nDiploma in 3D animations
+    </string>
+
+    <!-- Colleges-->
+    <string name="c1">
+        Collge Name:-ACE Angul - Adarsha College of Engineering
+        Location:-Angul,Odisha
+        Category:-Private
+
+        Collge Name:-ACET Pondicherry - Achariya College of Engineering Technology
+        Location:-Villianur,Puducherry
+        Category:-Private
+    </string>
+</resources>
