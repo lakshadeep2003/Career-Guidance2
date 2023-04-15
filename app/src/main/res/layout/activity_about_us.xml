@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AboutUs"
+    tools:ignore="SpeakableTextPresentCheck">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="ExtraText">
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:fontFamily="@font/aldrich"
+            android:background="@drawable/input_bg1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="About Us!"
+            android:textSize="40sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="850dp"
+            android:gravity="center"
+            android:background="@drawable/input_bg1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="Welcome To Career Guidance
+\n
+\nCareer Guidance is a Professional Educational, Informative Platform. Here we will provide you only interesting content, you will like very much.
+\n
+\n We're which dedicated to providing you the best of Educational, Informative, with a focus on dependability and Career Guidance Videos,Career Courses,Career Tips,Chat Option,Aptitude Test,Feedback.
+\n
+\n      We're working to Educational,for passion our turn informative into a booming online website Educational, We hope you enjoy our informative as much as we enjoy offering them to you will keep posting more important posts on my Website for all of you. Please give your support and love.
+\n
+\nThanks For Visiting Our Application
+\n
+\n Have a nice day!"
+            android:textSize="20sp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

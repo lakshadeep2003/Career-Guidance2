@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Terms"
+    tools:ignore="SpeakableTextPresentCheck">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="ExtraText">
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:fontFamily="@font/aldrich"
+            android:background="@drawable/input_bg1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="Terms and Conditions"
+            android:textSize="33sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="1200dp"
+            android:gravity="center"
+            android:background="@drawable/input_bg1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="     By accessing and placing an order with Career Guidance, you confirm that you are in agreement with and bound by the terms of service contained in the Terms and Conditions outlined below. These terms apply to the entire application and any email or other type of communication between you and Career Guidance.
+\n
+\n    Under no circumstances shall Career Guidance team be liable for any direct or indirect, special, incidental or consequential damages, including, but not limited to, loss of data or profit, arising out of the use, or the inability to use, the materials on this site, even if Career Guidance team or an authorized representative has been advised of the possibility of such damages.
+\n
+\n    If your use of contents from this application results in the need for correction of equipment or data, you assume any costs there of Career Guidance will not be responsible for any outcome that may occur during the course of usage of our resources.
+\n
+\nWe reserve the rights to change prices and revise the resources usage policy in any moment.
+\n
+\nYour Consent We've updated our Terms and Conditions to provide you with complete transparency into what is being set when you visit our site and how it's being used. By using our service registering an account, or making a purchase, you hereby consent to our Terms and Conditions
+\n
+\nThank You!"
+            android:textSize="20sp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Policy"
+    tools:ignore="SpeakableTextPresentCheck">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        tools:ignore="ExtraText">
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:gravity="center"
+            android:fontFamily="@font/aldrich"
+            android:background="@drawable/input_bg1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="Privacy Policy"
+            android:textSize="40sp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+        <TextView
+            tools:ignore="MissingPrefix"
+            android:layout_marginTop="20dp"
+            android:layout_width="match_parent"
+            android:layout_height="800dp"
+            android:gravity="center"
+            android:background="@drawable/input_bg1"
+            android:layout_marginRight="8dp"
+            android:layout_marginLeft="8dp"
+            android:text="
+Career Guidance (we,our,or,us) is committed to protecting your privacy.This Privacy Policy explains how your personal information is collected, used, and disclosed by Career Guidance
+\n
+\nThis Privacy Policy applies to our application named Career Guidance and its associated subdomains (collectively, our Service). By accessing or using our Service, you signify that you have read, understood and agree to our collection, storage, use, and disclosure of your personal information as described in this Privacy Policy and our Terms of Service.
+\n
+\n  Changes To Our Privacy Policy, If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below.
+\n
+\n Thank you for choosing Career Guidance, and we look forward to serving you."
+            android:textSize="20sp"
+            android:layout_marginBottom="10dp"
+            android:textColor="@color/black"
+            android:textStyle="bold"/>
+
+
+    </LinearLayout>
+
+</ScrollView>
