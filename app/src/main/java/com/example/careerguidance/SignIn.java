@@ -28,7 +28,7 @@ public class SignIn extends AppCompatActivity {
     EditText loginUsername, loginPassword;
     boolean passwordvisible;
     Button loginButton;
-    TextView ForgotPassword,createnewAccount;
+    TextView createnewAccount;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -36,7 +36,6 @@ public class SignIn extends AppCompatActivity {
         setContentView(R.layout.activity_signin);
         loginUsername = findViewById(R.id.inputUsername);
         loginPassword = findViewById(R.id.inputPassword);
-        ForgotPassword = findViewById(R.id.forgotPassword);
         loginButton = findViewById(R.id.btnLogin);
         createnewAccount = findViewById(R.id.createNewAccount);
 
@@ -78,14 +77,6 @@ public class SignIn extends AppCompatActivity {
 
                 editor.putBoolean("hasLoggedIn",true);
                 editor.commit();
-            }
-        });
-
-        ForgotPassword.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent intent = new Intent(SignIn.this, Register.class);
-                startActivity(intent);
             }
         });
 

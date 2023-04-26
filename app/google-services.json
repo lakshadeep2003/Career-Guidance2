@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "274433665157",
-    "project_id": "careerguidance-5b745",
-    "storage_bucket": "careerguidance-5b745.appspot.com"
+    "project_number": "613355948376",
+    "project_id": "careerguidance-656fa",
+    "storage_bucket": "careerguidance-656fa.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:274433665157:android:0d5e14c9c667519a3021ec",
+        "mobilesdk_app_id": "1:613355948376:android:45e5b93ca5b5a3a52bbd2d",
         "android_client_info": {
           "package_name": "com.example.careerguidance"
         }
       },
       "oauth_client": [
         {
-          "client_id": "274433665157-41fg2f2eikghjeccvo6p0i4c30av7epj.apps.googleusercontent.com",
+          "client_id": "613355948376-u0ciimt6mld5i7377r836g74ibi51l0h.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyBwoslX1TnZxE8HYXTKb0aDpwYqbYhdxMU"
+          "current_key": "AIzaSyCMBR0xLdsYkIAcqBOMQx8CUcureQ44kCo"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "274433665157-41fg2f2eikghjeccvo6p0i4c30av7epj.apps.googleusercontent.com",
+              "client_id": "613355948376-u0ciimt6mld5i7377r836g74ibi51l0h.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
