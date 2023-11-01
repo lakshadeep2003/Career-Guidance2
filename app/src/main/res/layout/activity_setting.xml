@@ -11,12 +11,13 @@
         android:id="@+id/settingprofile"
         android:layout_width="179dp"
         android:layout_height="149dp"
+        android:src="@drawable/photocamera"
         app:layout_constraintBottom_toTopOf="@+id/settingname"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.649"
-        app:srcCompat="@drawable/photocamera" />
+        app:layout_constraintVertical_bias="0.649"/>
+<!--        app:srcCompat="@drawable/photocamera" />-->
 
     <EditText
         android:id="@+id/settingname"
