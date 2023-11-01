@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "686440329479",
+    "project_id": "careerguidance-8e865",
+    "storage_bucket": "careerguidance-8e865.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:686440329479:android:d84ce85ff99fc54d0015a2",
+        "android_client_info": {
+          "package_name": "com.example.careerguidance"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtjSyqcFYE8Zc7GCBHnC_rxKvTrTXKHRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
